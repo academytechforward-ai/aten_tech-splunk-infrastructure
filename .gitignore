@@ -11,4 +11,4 @@
 *.log
 
 passwords.conf
-**/system/local/server.conf
+**/server.conf

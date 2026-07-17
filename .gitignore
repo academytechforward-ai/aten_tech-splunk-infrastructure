@@ -9,3 +9,6 @@
 .DS_Store
 .vscode/
 *.log
+
+passwords.conf
+**/system/local/server.conf

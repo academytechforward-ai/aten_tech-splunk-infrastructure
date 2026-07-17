@@ -1,0 +1,7 @@
+[]
+access = read : [ * ], write : [ admin ]
+export = system
+
+[server/clustering]
+version = 10.2.3
+modtime = 1778893115.303771000

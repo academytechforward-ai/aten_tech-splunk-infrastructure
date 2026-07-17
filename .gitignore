@@ -14,3 +14,5 @@ passwords.conf
 **/server.conf
 
 !indexer/aten-spk-idx1/opt/splunk/etc/apps/aten-tech_cluster_indexer_base/local/server.conf
+!indexer/aten-spk-idx2/opt/splunk/etc/apps/aten-tech_cluster_indexer_base/local/server.conf
+!indexer/aten-spk-idx3/opt/splunk/etc/apps/aten-tech_cluster_indexer_base/local/server.conf
